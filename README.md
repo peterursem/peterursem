@@ -1,4 +1,14 @@
-## Hi there 👋
+# Peter Ursem 
+
+I'm a student studying Computer Science with a cognate in Physics at Mount Royal University.
+
+I am currently looking for an internship or co-op opportunity. I love to explore the intersection of physics and computing, and develop tools to make people's lives better.
+
+Some of my top projects include: 
+- My single pixel camera, [Tessera](https://github.com/peterursem/tessera)
+- My photo editor project for Staples, [CardWizard](https://cardwizard.ca).
+
+You can see more about me on my website, [ursem.ca](https://ursem.ca)
 
 <!--
 **peterursem/peterursem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

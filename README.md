@@ -6,7 +6,7 @@ I am currently in my 3rd year studying **Computer Science** with a cognate in **
 You can learn more about me on my website: **[Ursem.ca](https://ursem.ca)**.
 
 ## 🔭 What I'm Working On:
-Recently I've been tacking physics related projects, including my single pixel camera research project linked below. Next, I am working on an interferometer to capture Light-in-Flight images at a small scale.
+Recently I've been tacking physics related projects, including my single pixel camera research project linked below.
 
 ## 📝 Featured Experiences: 
 - My single pixel camera research project: **[Tessera](https://github.com/peterursem/tessera)**.
